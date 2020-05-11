@@ -1,0 +1,17 @@
+{
+"companyName": "Help me Find Love",
+"productName": "Help me Find Love",
+"productVersion": "1.0",
+"dataUrl": "Новая папка (2).data.unityweb",
+"wasmCodeUrl": "Новая папка (2).wasm.code.unityweb",
+"wasmFrameworkUrl": "Новая папка (2).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Новая папка (2).jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
